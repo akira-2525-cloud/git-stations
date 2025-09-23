@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "@types/node": "^20.14.8",
-    "simple-git": "^3.25.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
   },
@@ -27,6 +26,7 @@
     "eslint-config-prettier": "^9.1.0",
     "globals": "^15.4.0",
     "prettier": "^3.3.1",
+    "simple-git": "^3.28.0",
     "typescript-eslint": "^7.13.0",
     "vitest": "^1.6.0"
   },
